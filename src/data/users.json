@@ -1,0 +1,66 @@
+[
+  {
+    "id": "u1",
+    "name": "Priya Mehta",
+    "role": "Product Designer",
+    "avatar": "PM",
+    "online": true,
+    "accent": "#7c3aed"
+  },
+  {
+    "id": "u2",
+    "name": "Aditya Rao",
+    "role": "Founder",
+    "avatar": "AR",
+    "online": false,
+    "accent": "#0f766e"
+  },
+  {
+    "id": "u3",
+    "name": "Ananya Sharma",
+    "role": "Community Lead",
+    "avatar": "AS",
+    "online": true,
+    "accent": "#ea580c"
+  },
+  {
+    "id": "u4",
+    "name": "Rahul Verma",
+    "role": "Growth",
+    "avatar": "RV",
+    "online": false,
+    "accent": "#2563eb"
+  },
+  {
+    "id": "u5",
+    "name": "Kiran Kumar",
+    "role": "Engineering",
+    "avatar": "KK",
+    "online": true,
+    "accent": "#db2777"
+  },
+  {
+    "id": "u6",
+    "name": "Neha Singh",
+    "role": "Operations",
+    "avatar": "NS",
+    "online": false,
+    "accent": "#65a30d"
+  },
+  {
+    "id": "u7",
+    "name": "Design Team",
+    "role": "Group",
+    "avatar": "DT",
+    "online": true,
+    "accent": "#7c3aed"
+  },
+  {
+    "id": "u8",
+    "name": "Weekend Riders",
+    "role": "Group",
+    "avatar": "WR",
+    "online": true,
+    "accent": "#0891b2"
+  }
+]

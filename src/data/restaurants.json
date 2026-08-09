@@ -1,0 +1,44 @@
+[
+  {
+    "id": "r1",
+    "name": "Pizza Palace",
+    "category": "Pizza",
+    "rating": 4.8,
+    "eta": "25 min",
+    "priceRange": "₹₹",
+    "tags": ["Trending", "Cheesy"],
+    "accent": "#ef4444",
+    "items": [
+      { "name": "Smoked Truffle Pizza", "price": 498, "desc": "Wood-fired crust and truffle cream" },
+      { "name": "Garden Supreme", "price": 420, "desc": "Roasted vegetables and basil" }
+    ]
+  },
+  {
+    "id": "r2",
+    "name": "Burger House",
+    "category": "Burgers",
+    "rating": 4.6,
+    "eta": "18 min",
+    "priceRange": "₹",
+    "tags": ["Quick", "Signature"],
+    "accent": "#f59e0b",
+    "items": [
+      { "name": "Crispy Smash Burger", "price": 260, "desc": "Double patties and house sauce" },
+      { "name": "Loaded Fries", "price": 180, "desc": "Cheese, jalapeños, herbs" }
+    ]
+  },
+  {
+    "id": "r3",
+    "name": "Biryani King",
+    "category": "Biryani",
+    "rating": 4.9,
+    "eta": "30 min",
+    "priceRange": "₹₹",
+    "tags": ["Popular", "Spicy"],
+    "accent": "#0f766e",
+    "items": [
+      { "name": "Hyderabadi Dum Biryani", "price": 360, "desc": "Slow-cooked saffron rice" },
+      { "name": "Chicken 65 Bowl", "price": 280, "desc": "Crispy and tangy" }
+    ]
+  }
+]

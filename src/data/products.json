@@ -1,0 +1,35 @@
+[
+  {
+    "id": "p1",
+    "name": "Fresh Mangoes",
+    "price": 129,
+    "category": "Fruits",
+    "unit": "kg",
+    "badge": "Fresh",
+    "accent": "#f59e0b"
+  },
+  {
+    "id": "p2",
+    "name": "Greek Yogurt",
+    "price": 189,
+    "category": "Dairy",
+    "unit": "pack",
+    "accent": "#7c3aed"
+  },
+  {
+    "id": "p3",
+    "name": "Trail Mix",
+    "price": 249,
+    "category": "Snacks",
+    "unit": "box",
+    "accent": "#0f766e"
+  },
+  {
+    "id": "p4",
+    "name": "Mineral Water",
+    "price": 89,
+    "category": "Beverages",
+    "unit": "case",
+    "accent": "#2563eb"
+  }
+]

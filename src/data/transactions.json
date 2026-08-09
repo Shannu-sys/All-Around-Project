@@ -1,0 +1,34 @@
+[
+  {
+    "id": "t1",
+    "title": "Paid to Priya",
+    "amount": 500,
+    "type": "debit",
+    "date": "Today",
+    "status": "Completed"
+  },
+  {
+    "id": "t2",
+    "title": "Added Money",
+    "amount": 1000,
+    "type": "credit",
+    "date": "Yesterday",
+    "status": "Completed"
+  },
+  {
+    "id": "t3",
+    "title": "Paid to Pizza",
+    "amount": 498,
+    "type": "debit",
+    "date": "Mon",
+    "status": "Completed"
+  },
+  {
+    "id": "t4",
+    "title": "Ride",
+    "amount": 234,
+    "type": "debit",
+    "date": "Sun",
+    "status": "Completed"
+  }
+]

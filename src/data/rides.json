@@ -1,0 +1,23 @@
+[
+  {
+    "id": "ride1",
+    "name": "Economy",
+    "price": 234,
+    "time": "3 mins away",
+    "perks": ["Comfort", "Aircon"]
+  },
+  {
+    "id": "ride2",
+    "name": "Bike",
+    "price": 98,
+    "time": "1 min away",
+    "perks": ["Fast", "Budget"]
+  },
+  {
+    "id": "ride3",
+    "name": "SUV",
+    "price": 456,
+    "time": "4 mins away",
+    "perks": ["Space", "Premium"]
+  }
+]

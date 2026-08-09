@@ -1,0 +1,50 @@
+[
+  {
+    "id": "s1",
+    "name": "Shopping",
+    "description": "Curated picks and discovery",
+    "accent": "#7c3aed"
+  },
+  {
+    "id": "s2",
+    "name": "Movies",
+    "description": "Book your next night out",
+    "accent": "#0891b2"
+  },
+  {
+    "id": "s3",
+    "name": "Events",
+    "description": "Local experiences and plans",
+    "accent": "#ea580c"
+  },
+  {
+    "id": "s4",
+    "name": "Hotels",
+    "description": "Staycations and travel stays",
+    "accent": "#0f766e"
+  },
+  {
+    "id": "s5",
+    "name": "Flights",
+    "description": "Future travel planning",
+    "accent": "#2563eb"
+  },
+  {
+    "id": "s6",
+    "name": "Insurance",
+    "description": "Coverage and support",
+    "accent": "#db2777"
+  },
+  {
+    "id": "s7",
+    "name": "Education",
+    "description": "Learning and growth",
+    "accent": "#65a30d"
+  },
+  {
+    "id": "s8",
+    "name": "Beauty",
+    "description": "Wellness and self care",
+    "accent": "#f59e0b"
+  }
+]

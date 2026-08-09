@@ -1,0 +1,44 @@
+[
+  {
+    "id": "m1",
+    "chatId": "chat-priya",
+    "sender": "Priya Mehta",
+    "text": "Hey! Are we still meeting today?",
+    "timestamp": "10:12",
+    "status": "Read"
+  },
+  {
+    "id": "m2",
+    "chatId": "chat-priya",
+    "sender": "You",
+    "text": "Yes, 1 PM works 👍",
+    "timestamp": "10:13",
+    "status": "Sent",
+    "own": true
+  },
+  {
+    "id": "m3",
+    "chatId": "chat-priya",
+    "sender": "Priya Mehta",
+    "text": "Perfect!",
+    "timestamp": "10:14",
+    "status": "Delivered"
+  },
+  {
+    "id": "m4",
+    "chatId": "chat-weekend",
+    "sender": "Asha",
+    "text": "Who is bringing the snacks?",
+    "timestamp": "18:20",
+    "status": "Read"
+  },
+  {
+    "id": "m5",
+    "chatId": "chat-weekend",
+    "sender": "You",
+    "text": "I’ll handle the coffee run.",
+    "timestamp": "18:22",
+    "status": "Sent",
+    "own": true
+  }
+]

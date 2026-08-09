@@ -1,0 +1,59 @@
+[
+  {
+    "id": "chat-priya",
+    "name": "Priya Mehta",
+    "lastMessage": "Perfect! I’ll see you at 1 PM.",
+    "timestamp": "09:41",
+    "unreadCount": 2,
+    "online": true,
+    "avatar": "PM",
+    "accent": "#7c3aed"
+  },
+  {
+    "id": "chat-design",
+    "name": "Design Team",
+    "lastMessage": "New launch assets are ready.",
+    "timestamp": "08:15",
+    "unreadCount": 4,
+    "online": true,
+    "avatar": "DT",
+    "accent": "#2563eb"
+  },
+  {
+    "id": "chat-mom",
+    "name": "Mom",
+    "lastMessage": "Please pick up milk on the way.",
+    "timestamp": "Yesterday",
+    "unreadCount": 0,
+    "avatar": "M",
+    "accent": "#ea580c"
+  },
+  {
+    "id": "chat-aditya",
+    "name": "Aditya Rao",
+    "lastMessage": "Let’s review the demo flow.",
+    "timestamp": "11:05",
+    "unreadCount": 1,
+    "avatar": "AR",
+    "accent": "#0f766e"
+  },
+  {
+    "id": "chat-weekend",
+    "name": "Weekend Riders",
+    "lastMessage": "Meet at the usual cafe at 7.",
+    "timestamp": "Sun",
+    "unreadCount": 0,
+    "avatar": "WR",
+    "isGroup": true,
+    "accent": "#0891b2"
+  },
+  {
+    "id": "chat-project",
+    "name": "Project Team",
+    "lastMessage": "The prototype is looking sharp.",
+    "timestamp": "Mon",
+    "unreadCount": 3,
+    "avatar": "PT",
+    "accent": "#db2777"
+  }
+]
